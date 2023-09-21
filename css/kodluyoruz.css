@@ -1,0 +1,41 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+header h1 {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav {
+    display: inline;
+}
+
+nav a {
+    color: #2c2c2c;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #999;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
